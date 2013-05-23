@@ -1,0 +1,3 @@
+# Exercise 23: Read Some Code
+
+# Nothing to code-up here, moving along...
